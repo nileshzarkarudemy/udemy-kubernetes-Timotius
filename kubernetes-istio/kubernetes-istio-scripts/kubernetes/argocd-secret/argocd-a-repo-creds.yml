@@ -9,3 +9,5 @@ stringData:
   type: git
   # Change url, username, password with your own
   url: https://github.com/timpamungkas/devops-app-deployment
+  username: timpamungkas
+  password: 
